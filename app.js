@@ -155,15 +155,15 @@ const gaugeData = [
      axis: { range: [0,9] },
      bar: { color: "#f2e9e4" },
      steps: [
-        { range: [0, 1], color: "#e5d5d0" },
-        { range: [1, 2], color: "#dbc7c2" },
-        { range: [2, 3], color: "#d2b9b4" },
-        { range: [3, 4], color: "#c9ada7" },
-        { range: [4, 5], color: "#ac9899" },
-        { range: [5, 6], color: "#8a7e88" },
-        { range: [6, 7], color: "#7d7482" },
-        { range: [7, 8], color: "#706a7b" },
-        { range: [8, 9], color: "#4a4e69" }
+        { range: [0, 1], color: "#CCFFFF" },
+        { range: [1, 2], color: "#99FFFF" },
+        { range: [2, 3], color: "#66FFFF" },
+        { range: [3, 4], color: "#00FFFF" },
+        { range: [4, 5], color: "#00CCCC" },
+        { range: [5, 6], color: "#009999" },
+        { range: [6, 7], color: "#006666" },
+        { range: [7, 8], color: "#0066CC" },
+        { range: [8, 9], color: "#004C99" }
               
       ],
      threshold: {
