@@ -130,7 +130,7 @@ layout1 = {
   yaxis: {title: 'Number of Samples Collected'},
   showlegend: false,
   height: 800,
-  width: 1800
+  width: 1200
   };
   
 // Plot using Plotly
